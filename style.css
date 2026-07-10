@@ -8,3 +8,22 @@ body{font-family:Arial,sans-serif;background:#eef5ff}
 .services h2{text-align:center;color:#0d47a1;margin-bottom:15px}
 .card{background:#fff;max-width:500px;margin:10px auto;padding:15px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.2)}
 footer{background:#0d47a1;color:#fff;text-align:center;padding:20px;margin-top:20px}
+.about{
+    background:#ffffff;
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.2);
+}
+
+.about h2{
+    color:#0d47a1;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.about p{
+    line-height:1.8;
+    font-size:16px;
+    color:#333;
+}
